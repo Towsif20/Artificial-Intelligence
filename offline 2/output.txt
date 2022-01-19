@@ -1,0 +1,11 @@
+Scheme 1 => Highest degree + kempe
+Scheme 2 => Largest Enrollment + kempe
+Scheme 3 => DSatur + kempe
+
+scheme		    1		    2		    3
+
+yor-f-83	23	38.20	25	38.23	20	45.53	
+car-s-91	34	8.75	36	8.18	31	9.28	
+kfu-s-93	20	25.50	21	25.53	19	27.04	
+tre-s-92	23	11.73	22	12.70	23	11.96	
+car-f-92	32	7.32	35	6.90	30	7.33	
